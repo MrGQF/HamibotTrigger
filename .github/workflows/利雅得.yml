@@ -1,6 +1,6 @@
 on:
   schedule:
-    - cron: '3 14,18,23 * * *'  
+    - cron: '14 14,16,23 * * *'  
 
 jobs:
   run_python_script:
